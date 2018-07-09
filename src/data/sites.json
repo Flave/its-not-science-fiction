@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_1",
+        "name": "Site 1",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.777670860290527, 54.04797569957982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_2",
+        "name": "Site 2",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.088002681732178, 54.34798997209373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_3",
+        "name": "Site 3",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.150787830352781, 54.31792505432417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_4",
+        "name": "Site 4",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.311269760131836, 52.853376435753816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_5",
+        "name": "Site 5",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.293073654174805, 52.854043734738006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_6",
+        "name": "Site 6",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.485299587249756, 51.33397004408375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_7",
+        "name": "Site 7",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.483937025070189, 51.32257325509393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_8",
+        "name": "Site 8",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.57658863067627, 48.2928517214327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_9",
+        "name": "Site 9",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.551933765411377, 48.29111712230646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_10",
+        "name": "Site 10",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.473567485809326, 48.21078998674276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_11",
+        "name": "Site 11",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.47274136543274, 48.19412153091693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_12",
+        "name": "Site 12",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.657749414443968, 48.045460828511466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_13",
+        "name": "Site 13",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.507658481597899, 47.6640289571714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_14",
+        "name": "Site 14",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.471673965454102, 47.65725088426581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_15",
+        "name": "Site 15",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.425100088119507, 47.6639711521679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_16",
+        "name": "Site 16",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.849562406539915, 47.06283580817053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_17",
+        "name": "Site 17",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.636959791183472, 46.86471724387988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_18",
+        "name": "Site 18",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.636643290519714, 46.86583040280398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_19",
+        "name": "Site 19",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.30889344215393, 47.088350768398335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "site_20",
+        "name": "Site 20",
+        "description": "Some information about this site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.537026047706604, 47.41241806434793]
+      }
+    }
+  ]
+}

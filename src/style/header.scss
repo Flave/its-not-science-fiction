@@ -1,0 +1,47 @@
+#header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 10px 20px;
+  font-size: 40px;
+
+  @include respond-to('medium') {
+    font-size: 34px;
+  }
+
+  @include respond-to('small') {
+    font-size: 25px;
+  }
+
+  @include respond-to('mini') {
+    font-size: 20px;
+  }
+}
+
+.header__item {
+  margin-left: 15px;
+  text-transform: uppercase;
+}
+
+.header__logotype {
+  color: #f00;
+}
+
+.header__logotype-name {
+  font-weight: 600;
+}
+
+.header__nav {
+}
+
+.header__nav-link {
+  color: #8cff4f;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+  margin-left: 10px;
+}
